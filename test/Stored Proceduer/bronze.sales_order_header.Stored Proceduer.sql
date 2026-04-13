@@ -55,4 +55,4 @@ BEGIN
       FROM AdventureWorks2022.Sales.SalesOrderHeader
 END 
 
-EXEC bronze.load_erp_sales_order_Header
+EXEC bronze.load_erp_sales_order_Header_
